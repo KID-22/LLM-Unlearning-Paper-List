@@ -1,5 +1,7 @@
 # LLM-Unlearning-Survey
 
+【202311】Making Harmful Behaviors Unlearnable for Large Language Models  [[PDF](https://arxiv.org/pdf/2311.02105v1.pdf)] 
+
 【EMNLP2023】Unlearn What You Want to Forget: Efficient Unlearning for LLMs [[PDF](https://arxiv.org/pdf/2310.20150v1.pdf)] 
 
 【202310】Large Language Model Unlearning
