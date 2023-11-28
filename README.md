@@ -1,5 +1,7 @@
 # LLM-Unlearning-Survey
 
+【202311】Knowledge Unlearning for LLMs: Tasks, Methods, and Challenges [[PDF](https://arxiv.org/ftp/arxiv/papers/2311/2311.15766.pdf)] 
+
 【202311】Forgetting before Learning: Utilizing Parametric Arithmetic for Knowledge Updating in Large Language Models [[PDF](https://arxiv.org/pdf/2311.08011v1.pdf)] 
 
 【202311】Making Harmful Behaviors Unlearnable for Large Language Models  [[PDF](https://arxiv.org/pdf/2311.02105v1.pdf)] 
