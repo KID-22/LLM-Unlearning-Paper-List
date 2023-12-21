@@ -1,4 +1,6 @@
 # LLM-Unlearning-Survey
+【202312】Learning and Forgetting Unsafe Examples in Large Language Models [[PDF](https://arxiv.org/pdf/2312.12736v1.pdf)]
+
 【NeurIPS2023 Workshop】FAIRSISA: ENSEMBLE POST-PROCESSING TO IMPROVE FAIRNESS OF UNLEARNING IN LLMS [[PDF](https://arxiv.org/pdf/2312.07420v1.pdf)]
 
 【202311】Knowledge Unlearning for LLMs: Tasks, Methods, and Challenges [[PDF](https://arxiv.org/ftp/arxiv/papers/2311/2311.15766.pdf)] 
