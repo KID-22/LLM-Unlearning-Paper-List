@@ -1,4 +1,6 @@
 # LLM-Unlearning-Survey
+【202401】TOFU: A Task of Fictitious Unlearning for LLMs [[PDF](https://arxiv.org/pdf/2401.06121.pdf)]
+
 【202312】Learning and Forgetting Unsafe Examples in Large Language Models [[PDF](https://arxiv.org/pdf/2312.12736v1.pdf)]
 
 【NeurIPS2023 Workshop】FAIRSISA: ENSEMBLE POST-PROCESSING TO IMPROVE FAIRNESS OF UNLEARNING IN LLMS [[PDF](https://arxiv.org/pdf/2312.07420v1.pdf)]
