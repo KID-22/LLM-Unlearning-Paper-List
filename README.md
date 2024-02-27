@@ -1,4 +1,6 @@
 # LLM-Unlearning-Survey
+【202402】Eight Methods to Evaluate Robust Unlearning in LLMs [[PDF](https://arxiv.org/pdf/2402.16835.pdf)]  
+
 【202402】Machine Unlearning of Pre-trained Large Language Models [[PDF](https://arxiv.org/pdf/2402.15159.pdf)]  
 
 【202402】EFUF: Efficient Fine-grained Unlearning Framework for Mitigating Hallucinations in Multimodal Large Language Models [[PDF](https://arxiv.org/pdf/2402.09801.pdf)]  
