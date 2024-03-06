@@ -1,4 +1,6 @@
 # LLM-Unlearning-Survey
+【202403】The WMDP Benchmark: Measuring and Reducing Malicious Use with Unlearning [[PDF](https://arxiv.org/pdf/2403.03218.pdf)] 
+
 【202402】Eight Methods to Evaluate Robust Unlearning in LLMs [[PDF](https://arxiv.org/pdf/2402.16835.pdf)]  
 
 【202402】Machine Unlearning of Pre-trained Large Language Models [[PDF](https://arxiv.org/pdf/2402.15159.pdf)]  
