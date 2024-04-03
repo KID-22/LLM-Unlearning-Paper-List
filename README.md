@@ -1,4 +1,6 @@
 # LLM-Unlearning-Survey
+【202404】Digital Forgetting in Large Language Models: A Survey of Unlearning Methods [[PDF](https://arxiv.org/pdf/2404.02062.pdf)] 
+
 【202403】The Frontier of Data Erasure: Machine Unlearning for Large Language Models [[PDF](https://arxiv.org/pdf/2403.15779.pdf)] 
 
 【202403】Second-Order Information Matters: Revisiting Machine Unlearning for Large Language Models [[PDF](https://arxiv.org/pdf/2403.10557.pdf)] 
