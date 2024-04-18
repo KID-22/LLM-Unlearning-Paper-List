@@ -1,4 +1,6 @@
 # LLM-Unlearning-Survey
+【202404】Offset Unlearning for Large Language Models [[PDF](https://arxiv.org/pdf/2404.11045.pdf)] 
+
 【202404】Exact and Efficient Unlearning for Large Language Model-based Recommendation [[PDF](https://arxiv.org/pdf/2404.10327.pdf)] 
 
 【202404】Negative Preference Optimization: From Catastrophic Collapse to Effective Unlearning [[PDF](https://arxiv.org/pdf/2404.05868.pdf)] 
