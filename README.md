@@ -1,5 +1,5 @@
 # LLM-Unlearning-Survey
-【202405】Large Scale Knowledge Washing [[PDF](https://arxiv.org/abs/2405.16720]
+【202405】Large Scale Knowledge Washing [[PDF](https://arxiv.org/abs/2405.16720)]
 
 【202405】Machine Unlearning in Large Language Models [[PDF](https://arxiv.org/pdf/2405.15152)]
 
