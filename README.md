@@ -1,4 +1,6 @@
 # LLM-Unlearning-Paper-List
+【202405】Cross-Modal Safety Alignment: Is textual unlearning all you need? [[PDF](https://arxiv.org/abs/2406.02575)]
+
 【202405】Large Scale Knowledge Washing [[PDF](https://arxiv.org/abs/2405.16720)]
 
 【202405】Machine Unlearning in Large Language Models [[PDF](https://arxiv.org/pdf/2405.15152)]
