@@ -1,4 +1,6 @@
 # LLM-Unlearning-Paper-List
+【202406】REVS: Unlearning Sensitive Information in Language Models via Rank Editing in the Vocabulary Space [[PDF](https://arxiv.org/abs/2406.09325)]
+
 【202405】Cross-Modal Safety Alignment: Is textual unlearning all you need? [[PDF](https://arxiv.org/abs/2406.02575)]
 
 【202405】Large Scale Knowledge Washing [[PDF](https://arxiv.org/abs/2405.16720)]
