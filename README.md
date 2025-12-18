@@ -1,4 +1,8 @@
 # LLM-Unlearning-Paper-List
+【202511】SineProject: Machine Unlearning for Stable Vision Language Alignment [[PDF](https://arxiv.org/pdf/2511.18444.pdf)]
+
+【202509】Stable Forgetting: Bounded Parameter-Efficient Unlearning in LLMs [[PDF](https://arxiv.org/pdf/2509.24166.pdf)]
+
 【202406】REVS: Unlearning Sensitive Information in Language Models via Rank Editing in the Vocabulary Space [[PDF](https://arxiv.org/abs/2406.09325)]
 
 【202405】Cross-Modal Safety Alignment: Is textual unlearning all you need? [[PDF](https://arxiv.org/abs/2406.02575)]
